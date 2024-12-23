@@ -1,2 +1,3 @@
 # Omni_Training
-[!image](["C:\Users\HakeemLawrence\Pictures\omni-logo.png"](https://github.com/ConatusForever/Omni_Training/blob/main/omni-logo.png?raw=true))
+![Image](https://github.com/ConatusForever/Omni-Training/blob/main/omni-logo.png?raw=true)
+
